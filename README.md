@@ -18,4 +18,4 @@ The folder `config` contains example configuration files that can be modified or
 
 Notes
 -----
-This is the very first experimental version. No testing has been carried out yet. There can be bugs and misleading comments. Many interfaces will change in the later versions. The example control algorithms aim to be simple yet feasible, and they have not been optimized at all.
+This is the very first experimental version. No testing has been carried out yet. There can be bugs and misleading comments. Many interfaces will change in the later versions. The example control algorithms aim to be simple yet feasible, and they have not been optimized at all...
