@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Modulator'
+project = 'Motulator'
 copyright = '2021, Aalto-Electric-Drives'
 author = 'Aalto-Electric-Drives'
 
 # The full version, including alpha/beta/rc tags
-release = '1.1.1'
+release = '1.0.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -30,7 +30,7 @@ release = '1.1.1'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['myst_parser','sphinx_rtd_theme']
+extensions = ['sphinx_rtd_theme']
 html_theme = "sphinx_rtd_theme"
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
